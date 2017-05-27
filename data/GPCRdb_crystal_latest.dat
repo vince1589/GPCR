@@ -1,0 +1,143 @@
+Protein name	Protein class	Species	PDB code	Resolution	Pre. chain	Aux. proteins	Ligand type	X-ray ligand	X-ray lig. function	X-ray lig. type	Reference	Date
+M4 receptor	Class A (Rhodopsin)	Human	5DSG	2.6	B	T4-Lysozyme	Small molecule	Tiotropium	Antagonist	Small molecule	10.1038/NATURE17188	2016-03-16
+OX1 receptor	Class A (Rhodopsin)	Human	4ZJC	2.8	A	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1038/NSMB.3183	2016-03-09
+OX1 receptor	Class A (Rhodopsin)	Human	4ZJ8	2.8	A	N/A	Small molecule	retinal	Inverse agonist	Small molecule	 	2016-03-09
+M1 receptor	Class A (Rhodopsin)	Human	5CXV	2.7	A	BRIL	Small molecule	ZM 241385	Antagonist	Small molecule	10.1038/NATURE17188	2016-03-09
+AT1 receptor	Class A (Rhodopsin)	Human	4ZUD	2.8	A	BRIL	Peptide	OLM	Inverse agonist	None	10.1074/JBC.M115.689000	2015-10-07
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	5A8E	2.4	A	N/A	Small molecule	7-methylcyanopindolol	Inverse agonist	None	10.1124/MOL.115.101030	2015-09-30
+mGlu5 receptor	Class C (Glutamate)	Human	5CGD	2.6	A	T4-Lysozyme	Small molecule	3-Chloro-5-[6-(5-Fluoropyridin-2-Yl)pyrimidin-4-Yl]benzonitrile	NAM	Small molecule	10.1021/ACS.JMEDCHEM.5B00892	2015-08-12
+mGlu5 receptor	Class C (Glutamate)	Human	5CGC	3.1	A	T4-Lysozyme	Small molecule	3-Chloro-4-Fluoro-5-[6-(1h-Pyrazol-1-Yl)pyrimidin-4-Yl]benzonitrile	NAM	Small molecule	10.1021/ACS.JMEDCHEM.5B00892	2015-08-12
+μ receptor	Class A (Rhodopsin)	Mouse	5C1M	2.1	A	T4-Lysozyme	Peptide	BF0	Antagonist	None	10.1038/NATURE14886	2015-08-05
+Rhodopsin	Class A (Rhodopsin)	Human	4ZWJ	3.3	A	B-arrestin		N/A	N/A	N/A	10.1038/NATURE14656	2015-07-29
+LPA1 receptor	Class A (Rhodopsin)	Human	4Z35	2.9	A	BRIL	Lipid	ONO-9910539	Antagonist	Small molecule	10.1016/J.CELL.2015.06.002	2015-06-03
+LPA1 receptor	Class A (Rhodopsin)	Human	4Z34	3	A	BRIL	Lipid	ONO-9780307	Antagonist	Small molecule	10.1016/J.CELL.2015.06.002	2015-06-03
+LPA1 receptor	Class A (Rhodopsin)	Human	4Z36	2.9	A	BRIL	Lipid	ONO-3080573	Antagonist	Small molecule	10.1016/J.CELL.2015.06.002	2015-06-03
+AT1 receptor	Class A (Rhodopsin)	Human	4YAY	2.9	A	BRIL	Peptide	ZD7155	Antagonist	Small molecule	10.1016/J.CELL.2015.04.011	2015-04-22
+A2A receptor	Class A (Rhodopsin)	Human	4UHR	2.6	A	N/A	Small molecule	Cgs 21680	Agonist	Small molecule	10.1124/MOL.114.097360	2015-04-08
+A2A receptor	Class A (Rhodopsin)	Human	4UG2	2.6	A,B	N/A	Small molecule	Cgs 21680	Agonist	Small molecule	10.1124/MOL.114.097360	2015-04-08
+P2Y1 receptor	Class A (Rhodopsin)	Human	4XNV	2.2	A	Rubredoxin	Small molecule	BPTU	Antagonist	Small molecule	10.1038/NATURE14287	2015-04-01
+P2Y1 receptor	Class A (Rhodopsin)	Human	4XNW	2.7	A	Rubredoxin	Small molecule	MRS2500	Antagonist	Small molecule	10.1038/NATURE14287	2015-04-01
+US28	Class A (Rhodopsin)	strain AD169	4XT1	2.9	A	SignProtMimic_Nanobody	Peptide	CX3CL1	Agonist	None	10.1126/SCIENCE.AAA5026	2015-03-04
+US28	Class A (Rhodopsin)	strain AD169	4XT3	3.8	A	N/A	Peptide	CX3CL1	Agonist	None	10.1126/SCIENCE.AAA5026	2015-03-04
+CXCR4	Class A (Rhodopsin)	Human	4RWS	3.1	A	T4-Lysozyme	Peptide	vMIP-II	Antagonist	None	10.1126/SCIENCE.1261064	2015-02-11
+OX2 receptor	Class A (Rhodopsin)	Human	4S0V	2.5	A	PGS	Peptide	Suvorexant	Antagonist	Small molecule	10.1038/NATURE14035	2015-01-14
+δ receptor	Class A (Rhodopsin)	Human	4RWD	2.7	A,B	BRIL	Peptide	DIPP-NH2	Antagonist	None	10.1038/NSMB.2965	2015-01-14
+δ receptor	Class A (Rhodopsin)	Human	4RWA	3.3	A,B	BRIL	Peptide	DIPP-NH2	Antagonist	None	10.1038/NSMB.2965	2015-01-14
+M3 receptor	Class A (Rhodopsin)	Rat	4U15	2.8	B	T4-Lysozyme	Small molecule	Tiotropium	Antagonist	Small molecule	10.1016/J.STR.2014.08.022	2014-11-26
+M3 receptor	Class A (Rhodopsin)	Rat	4U14	3.6	A	T4-Lysozyme	Small molecule	Tiotropium	Antagonist	Small molecule	10.1016/J.STR.2014.08.022	2014-11-26
+M3 receptor	Class A (Rhodopsin)	Rat	4U16	3.7	B	T4-Lysozyme	Small molecule	N-methyl scopolamine	Antagonist	Small molecule	10.1016/J.STR.2014.08.022	2014-11-26
+Rhodopsin	Class A (Rhodopsin)	Bovine	4PXF	2.8	A	Arrestin	Small molecule	N/A	N/A	N/A	10.1038/NCOMMS5801	2014-09-17
+SMO	Class F (Frizzled)	Human	4QIN	2.6	A	BRIL	Constitutive	SAG1.5	Agonist	None	10.1038/NCOMMS5355	2014-07-23
+β2-adrenoceptor	Class A (Rhodopsin)	Human	4QKX	3.3	A	SignProtMimic_Nanobody	Small molecule	35V	Agonist	Small molecule	10.1073/PNAS.1410415111	2014-07-23
+SMO	Class F (Frizzled)	Human	4QIM	2.6	A	BRIL	Constitutive	AntaXV	Antagonist	Small molecule	10.1038/NCOMMS5355	2014-07-23
+FFA1 receptor	Class A (Rhodopsin)	Human	4PHU	2.3	A	T4-Lysozyme	Lipid	TAK-875	Agonist	Small molecule	10.1038/NATURE13494	2014-07-16
+mGlu5 receptor	Class C (Glutamate)	Human	4OO9	2.6	A	T4-Lysozyme	Small molecule	Mavoglurant	NAM	Small molecule	10.1038/NATURE13396	2014-07-02
+P2Y12 receptor	Class A (Rhodopsin)	Human	4PXZ	2.5	A	BRIL	Small molecule	2-MeSADP	Agonist	Small molecule	10.1038/NATURE13288	2014-04-30
+P2Y12 receptor	Class A (Rhodopsin)	Human	4PY0	3.1	A	BRIL	Small molecule	2-Mesatp	Agonist (partial)	Small molecule	10.1038/NATURE13288	2014-04-30
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	4BVN	2.1	A	N/A	Small molecule	DB08347	Antagonist	Small molecule	10.1371/JOURNAL.PONE.0092727	2014-04-02
+P2Y12 receptor	Class A (Rhodopsin)	Human	4NTJ	2.6	A	BRIL	Small molecule	AZD1283	Antagonist	Small molecule	10.1038/NATURE13083	2014-03-26
+mGlu1 receptor	Class C (Glutamate)	Human	4OR2	2.8	A,B	BRIL	Small molecule	FITM	NAM	Small molecule	10.1126/SCIENCE.1249489	2014-03-19
+SMO	Class F (Frizzled)	Human	4O9R	3.2	A	BRIL	Constitutive	Cyclopamine	Antagonist	Small molecule	10.1038/NCOMMS4309	2014-03-05
+NTS1 receptor	Class A (Rhodopsin)	Rat	3ZEV	3	A	N/A		Neurotensin(8-13)	Agonist	Peptide	10.1073/PNAS.1317903111	2014-01-29
+NTS1 receptor	Class A (Rhodopsin)	Rat	4BV0	3.1	A	N/A		Neurotensin(8-13)	Agonist	Peptide	10.1073/PNAS.1317903111	2014-01-29
+NTS1 receptor	Class A (Rhodopsin)	Rat	4BUO	2.8	A	N/A		Neurotensin(8-13)	Agonist	Peptide	10.1073/PNAS.1317903111	2014-01-29
+NTS1 receptor	Class A (Rhodopsin)	Rat	4BWB	3.6	A	N/A		Neurotensin(8-13)	Agonist	Peptide	10.1073/PNAS.1317903111	2014-01-29
+SMO	Class F (Frizzled)	Human	4N4W	2.8	A	BRIL	Constitutive	SANT-1	Antagonist	Small molecule	10.1038/NCOMMS5355	2014-01-22
+δ receptor	Class A (Rhodopsin)	Human	4N6H	1.8	A	BRIL	Peptide	Naltrindole	Antagonist	Small molecule	10.1038/NATURE12944	2013-12-25
+5-HT2B receptor	Class A (Rhodopsin)	Human	4NC3	2.8	A	BRIL	Small molecule	Ergotamin	Agonist	Small molecule	10.1126/SCIENCE.1244142	2013-12-18
+M2 receptor	Class A (Rhodopsin)	Human	4MQS	3.5	A	Nanobody	Small molecule	iperoxo	Agonist	Small molecule	10.1038/NATURE12735	2013-11-27
+M2 receptor	Class A (Rhodopsin)	Human	4MQT	3.7	A	Nanobody	Small molecule	LY2119620iperoxo	PAMAgonist	Small moleculeSmall molecule	10.1038/NATURE12735	2013-11-27
+Rhodopsin	Class A (Rhodopsin)	Bovine	4J4Q	2.7	A	GtOctylglucoside	Small molecule	N/A	N/A	N/A	10.1002/ANIE.201302374	2013-10-30
+β2-adrenoceptor	Class A (Rhodopsin)	Human	4LDL	3.1	A	NanobodyT4-Lysozyme	Small molecule	hydroxybenzylisoproterenol	Agonist	Small molecule	10.1038/NATURE12572	2013-09-25
+β2-adrenoceptor	Class A (Rhodopsin)	Human	4LDE	2.8	A	SignProtMimic_NanobodyT4-Lysozyme	Small molecule	BI167107	Agonist	Small molecule	10.1038/NATURE12572	2013-09-25
+β2-adrenoceptor	Class A (Rhodopsin)	Human	4LDO	3.2	A	NanobodyT4-Lysozyme	Small molecule	epinephrine	Agonist	Small molecule	10.1038/NATURE12572	2013-09-25
+CCR5	Class A (Rhodopsin)	Human	4MBS	2.7	A	Rubredoxin	Peptide	Maraviroc	Antagonist	Small molecule	10.1126/SCIENCE.1241475	2013-09-11
+glucagon receptor	Class B1 (Secretin)	Human	4L6R	3.3	A	BRIL	Peptide	N/A	N/A	N/A	10.1038/NATURE12393	2013-07-24
+CRF1 receptor	Class B1 (Secretin)	Human	4K5Y	3	C	T4-Lysozyme	Peptide	CP-376395	Antagonist	Small molecule	10.1038/NATURE12357	2013-07-17
+Rhodopsin	Class A (Rhodopsin)	Bovine	4BEY	2.9	A	Gt	Small molecule	N/A	N/A	N/A	10.1038/EMBOR.2013.44	2013-05-08
+SMO	Class F (Frizzled)	Human	4JKV	2.5	A	BRIL	Constitutive	Taladegib	Antagonist	Small molecule	10.1038/NATURE12167	2013-04-24
+Rhodopsin	Class A (Rhodopsin)	Bovine	4BEZ	3.3	A	N/A	Small molecule	N/A	N/A	N/A	10.1038/EMBOR.2013.44	2013-04-24
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	3ZPR	2.7	B	N/A	Small molecule	4-methyl-2-(piperazin-1-yl)quinoline	Antagonist	Small molecule	10.1021/JM400140Q	2013-04-03
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	3ZPQ	2.8	B	N/A	Small molecule	4-(1-Piperazinyl)-1H-indole	Antagonist	Small molecule	10.1021/JM400140Q	2013-04-03
+5-HT1B receptor	Class A (Rhodopsin)	Human	4IAR	2.7	A	BRIL	Small molecule	Ergotamin	Agonist	Small molecule	10.1126/SCIENCE.1232807	2013-03-13
+5-HT2B receptor	Class A (Rhodopsin)	Human	4IB4	2.7	A	BRIL	Small molecule	Ergotamin	Agonist	Small molecule	10.1126/SCIENCE.1232808	2013-03-13
+5-HT1B receptor	Class A (Rhodopsin)	Human	4IAQ	2.8	A	BRIL	Small molecule	dihydroergotamine	Agonist	Small molecule	10.1126/SCIENCE.1232807	2013-03-13
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	4GPO	3.5	A,B	N/A	Small molecule	N/A	N/A	N/A	10.1038/NSMB.2504	2013-02-27
+PAR1	Class A (Rhodopsin)	Human	3VW7	2.2	A	T4-Lysozyme	Peptide	Vorapaxar	Antagonist	Small molecule	10.1038/NATURE11701	2012-12-12
+β2-adrenoceptor	Class A (Rhodopsin)	Human	4GBR	4	A	T4-Lysozyme	Small molecule	timolol	Inverse agonist (partial)	Small molecule	10.1371/JOURNAL.PONE.0046039	2012-10-24
+NTS1 receptor	Class A (Rhodopsin)	Rat	4GRV	2.8	A	T4-Lysozyme		Neurotensin(8-13)	Agonist	Peptide	10.1038/NATURE11558	2012-10-17
+A2A receptor	Class A (Rhodopsin)	Human	4EIY	1.8	A	BRIL	Small molecule	ZM 241385	Antagonist	Small molecule	10.1126/SCIENCE.1219218	2012-07-25
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	4AMI	3.2	A	N/A	Small molecule	bucindolol	Agonist	Small molecule	10.1016/J.STR.2012.03.014	2012-05-23
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	4AMJ	2.3	B	N/A	Small molecule	(S)-(-)-Carvedilol	Inverse agonist	Small molecule	10.1016/J.STR.2012.03.014	2012-05-23
+δ receptor	Class A (Rhodopsin)	Mouse	4EJ4	3.4	A	T4-Lysozyme		Naltrindole	Antagonist	Small molecule	10.1038/NATURE11111	2012-05-16
+NOP receptor	Class A (Rhodopsin)	Human	4EA3	3	A	BRIL	Peptide	C-24	Antagonist	Small molecule	10.1038/NATURE11085	2012-04-25
+κ receptor	Class A (Rhodopsin)	Human	4DJH	2.9	A	T4-Lysozyme	Peptide	JDTic	Antagonist	Small molecule	10.1038/NATURE10939	2012-03-21
+μ receptor	Class A (Rhodopsin)	Mouse	4DKL	2.8	A	T4-Lysozyme	Peptide	BF0	Antagonist	None	10.1038/NATURE10954	2012-03-21
+A2A receptor	Class A (Rhodopsin)	Human	3UZA	3.3	A	N/A	Small molecule	CHEMBL2024115	Antagonist	Small molecule	10.1021/JM201376W	2012-03-21
+A2A receptor	Class A (Rhodopsin)	Human	3UZC	3.3	A	N/A	Small molecule	T4E	Antagonist	None	10.1021/JM201376W	2012-03-21
+M3 receptor	Class A (Rhodopsin)	Rat	4DAJ	3.4	A	T4-Lysozyme	Small molecule	Tiotropium	Inverse agonist	Small molecule	10.1038/NATURE10867	2012-02-22
+S1P1 receptor	Class A (Rhodopsin)	Human	3V2Y	2.8	A	T4-Lysozyme	Lipid	W146	Antagonist	Small molecule	10.1126/SCIENCE.1215904	2012-02-15
+S1P1 receptor	Class A (Rhodopsin)	Human	3V2W	3.4	A	T4-Lysozyme	Lipid	W146	Antagonist	Small molecule	10.1126/SCIENCE.1215904	2012-02-15
+M2 receptor	Class A (Rhodopsin)	Human	3UON	3	A	T4-Lysozyme	Small molecule	CHEMBL558910	Antagonist	Small molecule	10.1038/NATURE10753	2012-02-01
+A2A receptor	Class A (Rhodopsin)	Human	3VGA	3.1	A	N/A	Small molecule	ZM 241385	Antagonist	Small molecule	10.1038/NATURE10750	2012-02-01
+A2A receptor	Class A (Rhodopsin)	Human	3VG9	2.7	A	N/A	Small molecule	ZM 241385	Antagonist	Small molecule	10.1038/NATURE10750	2012-02-01
+Rhodopsin	Class A (Rhodopsin)	Bovine	4A4M	3.3	A	Gt	Small molecule	retinal	Agonist	Small molecule	10.1073/PNAS.1114089108	2012-01-25
+A2A receptor	Class A (Rhodopsin)	Human	3REY	3.3	A	N/A	Small molecule	Xanthine amine congener	Antagonist	Small molecule	10.1016/J.STR.2011.06.014	2011-09-07
+A2A receptor	Class A (Rhodopsin)	Human	3PWH	3.3	A	N/A	Small molecule	ZM 241385	Inverse agonist	Small molecule	10.1016/J.STR.2011.06.014	2011-09-07
+A2A receptor	Class A (Rhodopsin)	Human	3RFM	3.6	A	N/A	Small molecule	caffeine	Antagonist	Small molecule	10.1016/J.STR.2011.06.014	2011-09-07
+Rhodopsin	Class A (Rhodopsin)	Japanese flying squid	3AYM	2.8	A,B	N/A	Small molecule	retinal	Agonist	Small molecule	10.1016/J.JMB.2011.08.044	2011-08-17
+Rhodopsin	Class A (Rhodopsin)	Japanese flying squid	3AYN	2.7	A,B	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1016/J.JMB.2011.08.044	2011-08-17
+β2-adrenoceptor	Class A (Rhodopsin)	Human	3SN6	3.2	R	GsT4-Lysozyme	Small molecule	BI-167107	Agonist	Small molecule	10.1038/NATURE10361	2011-07-20
+H1 receptor	Class A (Rhodopsin)	Human	3RZE	3.1	A	T4-Lysozyme	Small molecule	doxepin	Antagonist	Small molecule	10.1038/NATURE10236	2011-06-15
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	2YCY	3.2	A	N/A	Small molecule	DB08347	Antagonist	Small molecule	10.1073/PNAS.1100185108	2011-06-08
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	2YCW	3	A	N/A	Small molecule	timolol	Inverse agonist	Small molecule	10.1073/PNAS.1100185108	2011-06-01
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	2YCX	3.3	A	N/A	Small molecule	DB08347	Antagonist	Small molecule	10.1073/PNAS.1100185108	2011-06-01
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	2YCZ	3.7	B	N/A	Small molecule	timolol	Antagonist	Small molecule	10.1073/PNAS.1100185108	2011-06-01
+A2A receptor	Class A (Rhodopsin)	Human	2YDV	2.6	A	N/A	Small molecule	timolol	Agonist	Small molecule	10.1038/NATURE10136	2011-05-18
+A2A receptor	Class A (Rhodopsin)	Human	2YDO	3	A	N/A	Small molecule	adenosine	Agonist	Small molecule	10.1038/NATURE10136	2011-05-18
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	2Y01	2.6	A	N/A	Small molecule	dobutamine	Agonist (partial)	N/A	 	2011-03-30
+Rhodopsin	Class A (Rhodopsin)	Bovine	2X72	3	A	Gt	Small molecule	retinal	Agonist	Small molecule	10.1038/NATURE09795	2011-03-16
+Rhodopsin	Class A (Rhodopsin)	Bovine	3PXO	3	A	N/A	Small molecule	retinal	Agonist	Small molecule	10.1038/NATURE09789	2011-03-09
+Rhodopsin	Class A (Rhodopsin)	Bovine	3PQR	2.9	A	Gt	Small molecule	retinal	Agonist	Small molecule	10.1038/NATURE09789	2011-03-09
+A2A receptor	Class A (Rhodopsin)	Human	3QAK	2.7	A	T4-Lysozyme	Small molecule	UK-432097	Agonist	Small molecule	10.1126/SCIENCE.1202793	2011-03-09
+Rhodopsin	Class A (Rhodopsin)	Bovine	3OAX	2.6	A	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1016/J.BPJ.2010.08.003	2011-01-19
+β2-adrenoceptor	Class A (Rhodopsin)	Human	3P0G	3.5	A	SignProtMimic_NanobodyT4-Lysozyme	Small molecule	BI-167107	Agonist	Small molecule	10.1038/NATURE09648	2011-01-19
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	2Y04	3.1	B	N/A	Small molecule	Levalbuterol	Agonist (partial)	Small molecule	10.1038/NATURE09746	2011-01-12
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	2Y00	2.5	B	N/A	Small molecule	Dobutamine	Agonist (partial)	Small molecule	10.1038/NATURE09746	2011-01-12
+β2-adrenoceptor	Class A (Rhodopsin)	Human	3PDS	3.5	A	T4-Lysozyme	Small molecule	FAUC50	Agonist	Small molecule	10.1038/NATURE09665	2011-01-12
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	2Y02	2.6	B	N/A	Small molecule	Carmoterol	Agonist	Small molecule	 	2011-01-12
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	2Y03	2.9	B	N/A	Small molecule	l-Isoprenaline	Agonist	Small molecule	 	2011-01-12
+D3 receptor	Class A (Rhodopsin)	Human	3PBL	2.9	A	T4-Lysozyme	Small molecule	Eticlopride	Antagonist	Small molecule	10.1126/SCIENCE.1197410	2010-11-03
+CXCR4	Class A (Rhodopsin)	Human	3ODU	2.5	A	T4-Lysozyme	Peptide	IT1t	Antagonist	Small molecule	10.1126/SCIENCE.1194396	2010-10-27
+CXCR4	Class A (Rhodopsin)	Human	3OE9	3.1	A	T4-Lysozyme	Peptide	IT1t	Antagonist	Small molecule	10.1126/SCIENCE.1194396	2010-10-27
+CXCR4	Class A (Rhodopsin)	Human	3OE0	2.9	A	T4-Lysozyme	Peptide	CVX15	Antagonist	None	10.1126/SCIENCE.1194396	2010-10-27
+CXCR4	Class A (Rhodopsin)	Human	3OE8	3.1	A	T4-Lysozyme	Peptide	IT1t	Antagonist	Small molecule	10.1126/SCIENCE.1194396	2010-10-27
+CXCR4	Class A (Rhodopsin)	Human	3OE6	3.2	A	T4-Lysozyme	Peptide	IT1t	Antagonist	Small molecule	10.1126/SCIENCE.1194396	2010-10-27
+β2-adrenoceptor	Class A (Rhodopsin)	Human	3NY8	2.8	A	T4-Lysozyme	Small molecule	AC1NSK5N	Inverse agonist	Small molecule	10.1021/JA105108Q	2010-08-11
+β2-adrenoceptor	Class A (Rhodopsin)	Human	3NYA	3.2	A	T4-Lysozyme	Small molecule	AC1L4D0J	Antagonist	Small molecule	10.1021/JA105108Q	2010-08-11
+β2-adrenoceptor	Class A (Rhodopsin)	Human	3NY9	2.8	A	T4-Lysozyme	Small molecule	CHEMBL1233771	Inverse agonist	Small molecule	 	2010-08-11
+β2-adrenoceptor	Class A (Rhodopsin)	Human	3KJ6	3.4	A	Antibody	Small molecule	N/A	N/A	N/A	10.1038/NATURE08650	2010-02-16
+A2A receptor	Class A (Rhodopsin)	Human	3EML	2.6	A	T4-Lysozyme	Small molecule	ZM 241385	Antagonist	Small molecule	10.1126/SCIENCE.1164772	2008-10-14
+Rhodopsin	Class A (Rhodopsin)	Bovine	3DQB	3.2	A	GalphaCT	Small molecule	N/A	N/A	N/A	10.1038/NATURE07330	2008-09-23
+Rhodopsin	Class A (Rhodopsin)	Bovine	3C9L	2.7	A	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1107/S0907444908017162	2008-08-05
+Rhodopsin	Class A (Rhodopsin)	Bovine	3C9M	3.4	A	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1107/S0907444908017162	2008-08-05
+β1-adrenoceptor	Class A (Rhodopsin)	Common turkey	2VT4	2.7	B	N/A	Small molecule	DB08347	Antagonist	Small molecule	10.1038/NATURE07101	2008-06-24
+Rhodopsin	Class A (Rhodopsin)	Bovine	3CAP	2.9	A	N/A	Small molecule	N/A	N/A	N/A	10.1038/NATURE07063	2008-06-24
+β2-adrenoceptor	Class A (Rhodopsin)	Human	3D4S	2.8	A	T4-Lysozyme	Small molecule	timolol	Inverse agonist	Small molecule	10.1016/J.STR.2008.05.001	2008-06-17
+Rhodopsin	Class A (Rhodopsin)	Japanese flying squid	2Z73	2.5	A	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1038/NATURE06925	2008-05-13
+Rhodopsin	Class A (Rhodopsin)	Japanese flying squid	2ZIY	3.7	A	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1074/JBC.C800040200	2008-05-06
+β2-adrenoceptor	Class A (Rhodopsin)	Human	2R4R	3.4	A	Antibody	Small molecule	N/A	N/A	N/A	10.1038/NATURE06325	2007-11-06
+β2-adrenoceptor	Class A (Rhodopsin)	Human	2R4S	3.4	A	Antibody	Small molecule	N/A	N/A	N/A	10.1038/NATURE06325	2007-11-06
+β2-adrenoceptor	Class A (Rhodopsin)	Human	2RH1	2.4	A	T4-Lysozyme	Small molecule	Carazolol	Inverse agonist	Small molecule	10.1126/SCIENCE.1150577	2007-10-30
+Rhodopsin	Class A (Rhodopsin)	Bovine	2PED	3	A,B	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1529/BIOPHYSJ.107.108225	2007-10-30
+Rhodopsin	Class A (Rhodopsin)	Bovine	2J4Y	3.4	A,B	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1016/J.JMB.2007.03.007	2007-09-25
+Rhodopsin	Class A (Rhodopsin)	Bovine	2I35	3.8	A	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1073/PNAS.0608022103	2006-10-17
+Rhodopsin	Class A (Rhodopsin)	Bovine	2I37	4.2	A	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1073/PNAS.0608022103	2006-10-17
+Rhodopsin	Class A (Rhodopsin)	Bovine	2I36	4.1	A,B,C	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1073/PNAS.0608022103	2006-10-17
+Rhodopsin	Class A (Rhodopsin)	Bovine	2G87	2.6	A,B	N/A	Small molecule	retinal	Agonist	Small molecule	10.1002/ANIE.200600595	2006-09-02
+Rhodopsin	Class A (Rhodopsin)	Bovine	2HPY	2.8	A,B	N/A	Small molecule	retinal	Agonist	Small molecule	10.1073/PNAS.0601765103	2006-08-22
+Rhodopsin	Class A (Rhodopsin)	Bovine	1U19	2.2	A	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1016/J.JMB.2004.07.044	2004-10-12
+Rhodopsin	Class A (Rhodopsin)	Bovine	1GZM	2.7	A	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1016/J.JMB.2004.08.090	2003-11-20
+Rhodopsin	Class A (Rhodopsin)	Bovine	1L9H	2.6	A	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1073/PNAS.082666399	2002-05-15
+Rhodopsin	Class A (Rhodopsin)	Bovine	1HZX	2.8	A,B	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1021/BI0155091	2001-07-04
+Rhodopsin	Class A (Rhodopsin)	Bovine	1F88	2.8	A,B	N/A	Small molecule	retinal	Inverse agonist	Small molecule	10.1126/SCIENCE.289.5480.739	2000-08-04
