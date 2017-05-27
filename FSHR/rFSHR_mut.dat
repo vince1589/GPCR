@@ -1,0 +1,15 @@
+Substructure	No	Ba-We	wildtype	mutant		binding	expression	Gs_basal activation	Gs_max stimulation	Gq_basal activation	Gq_max stimulation
+LRR7	191		Asn	Gln	details	-	130	-
+LRR7	193		Thr	Ala	details	-	138	-
+LRR8	199		Asn	Gln	details	-	0	-
+LRR8	201		Ser	Ala	details	-	119	-
+293		Asn	Gln	details	-	85	-
+295		Ser	Ala	details	-	68	-
+TMH2	421	2.64	Asp	Ala	details	0	-	-
+TMH2	421	2.64	Asp	Glu	details	0	-	-
+TMH2	421	2.64	Asp	Lys	details	0	-	-
+TMH5	532	5.42	Ala	Ser	details	-	-	100
+TMH5	549	5.59	Thr	Ile	details	-	-	100
+TMH6	575	6.39	Thr	Met	details	-	-	100
+TMH6	580	6.44	Asp	Gly	details	93	-	978
+TMH7	614	7.42	Tyr	His	details	-	-	100

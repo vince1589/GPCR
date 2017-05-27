@@ -1,0 +1,478 @@
+Substructure	No	Ba-We	wildtype	mutant		binding	expression	Gs_basal activation	Gs_max stimulation	Gq_basal activation	Gq_max stimulation
+Cysteine-box-1	24		Cys	Ser	details	-	112	100	100	-	-
+Cysteine-box-1	27		Pro	Thr	details	-	-	100	85	-	-
+Cysteine-box-1	29		Cys	Ser	details	-	72	100	110	-	-
+Cysteine-box-1	31		Cys	Ser	details	-	40	100	115	-	-
+Cysteine-box-1	34		Glu	Lys	details	-	-	100	70	-	-
+LRR1	41		Cys	Ser	details	-	0	0	-	-	-
+LRR1	41		Cys	Ser	details	-	-	100	0	-	-
+LRR1	43		Asp	Ala	details	100	-	-	70	-	-
+LRR1	46		Arg	Pro	details	0	-	-	0	-	-
+LRR2	58		Lys	Ala	details	100	-	-	100	-	-
+LRR2	58		Lys	Ser	details	-	95	-	-	-	-
+LRR2	60		Ile	Ala	details	100	-	-	100	-	-
+LRR2	61		Glu	Ala	details	100	-	-	80	-	-
+LRR2	61		Glu	Tyr	details	-	100	-	-	-	-
+LRR2	77		Asn	Gln	details	0	-	-	-	-	-
+LRR3	80		Arg	Ala	details	100	-	-	100	-	-
+LRR3	80		Arg	Ala	details	-	-	-	70	-	-
+LRR3	80		Arg	Asp	details	100	-	-	80	-	-
+LRR3	80		Arg	Glu	details	-	-	-	104	-	-
+LRR3	80		Arg	Lys	details	-	100	-	-	-	-
+LRR3	82		Tyr	Ala	details	100	-	-	100	-	-
+LRR3	82		Tyr	Glu	details	-	87	-	-	-	-
+LRR3	84		Ser	Ala	details	-	-	-	145	-	-
+LRR3	85		Ile	Gln	details	-	107	-	-	-	-
+LRR4	107		Glu	Ala	details	100	-	-	70	-	-
+LRR4	107		Glu	Arg	details	0	-	-	0	-	-
+LRR4	109		Arg	Ala	details	100	-	-	100	-	-
+LRR4	109		Arg	Gln	details	60	-	-	80	-	-
+LRR4	113		Asn	Gln	details	-	-	-	0	-	-
+LRR4	114		Leu	Leu	details	60	-	-	40	-	-
+LRR5	129		Lys	Ala	details	100	-	-	100	-	-
+LRR5	130		Phe	Ala	details	-	-	-	71	-	-
+LRR5	136		Thr	Ala	details	-	-	-	75	-	-
+LRR6	157		Glu	Ala	details	-	75	100	-	-	-
+LRR6	157		Glu	Ala	details	-	-	-	77	-	-
+LRR6	157		Glu	Asp	details	-	-	-	119	-	-
+LRR6	157		Glu	Gln	details	-	-	-	82	-	-
+LRR6	160		Asp	Ala	details	-	-	-	68	-	-
+LRR6	160		Asp	Glu	details	-	-	-	56	-	-
+LRR6	160		Asp	Gln	details	-	-	-	56	-	-
+LRR6	162		Pro	Ala	details	26	79	94	104	110	80
+LRR6	167		Ile	Asn	details	-	0	-	0	-	-
+LRR7	183		Lys	Ala	details	-	100	110	-	-	-
+LRR7	183		Lys	Arg	details	-	100	100	100	-	-
+LRR8	206		Tyr	Glu	details	-	67	-	-	-	-
+LRR8	208		Asn	Lys	details	-	46	-	-	-	-
+LRR8	209		Lys	Glu	details	-	91	-	-	-	-
+LRR9	232		Asp	Ala	details	-	-	-	52	-	-
+LRR9	234		Ser	Ala	details	-	-	-	90	-	-
+LRR10	252		Leu	Pro	details	25	20	26	5	-	-
+LRR11	279		Tyr	Ala	details	-	20	30	31	113	7
+LRR11	279		Tyr	Asn	details	-	15	80	34	109	5
+LRR11	279		Tyr	Trp	details	-	85	80	87	109	57
+LRR11	281		Ser	Ala	details	-	96	67	-	-	-
+LRR11	281		Ser	Ala	details	-	98	81	94	86	96
+LRR11	281		Ser	Cys	details	-	66	350	108	111	78
+LRR11	281		Ser	Asp	details	13	17	530	59	69	7
+LRR11	281		Ser	Asp	details	-	14	640	65	77	8
+LRR11	281		Ser	Glu	details	-	42	770	80	97	29
+LRR11	281		Ser	Phe	details	-	82	230	75	80	114
+LRR11	281		Ser	Phe	details	-	86	200	114	-	-
+LRR11	281		Ser	Gly	details	-	36	131	-	-	-
+LRR11	281		Ser	Gly	details	-	78	250	96	89	59
+LRR11	281		Ser	His	details	-	95	350	97	77	111
+LRR11	281		Ser	Ile	details	60	-	800	-	100	90
+LRR11	281		Ser	Ile	details	-	23	700	61	374	60
+LRR11	281		Ser	Lys	details	-	9	80	25	82	8
+LRR11	281		Ser	Leu	details	-	10	293	42	-	-
+LRR11	281		Ser	Leu	details	-	20	540	63	80	12
+LRR11	281		Ser	Met	details	-	39	700	102	186	90
+LRR11	281		Ser	Asn	details	35	-	350	117	118	130
+LRR11	281		Ser	Asn	details	-	-	336	100	100	100
+LRR11	281		Ser	Asn	details	-	22	215	-	-	-
+LRR11	281		Ser	Asn	details	67	61	530	99	66	56
+LRR11	281		Ser	Asn	details	-	56	500	80	63	72
+LRR11	281		Ser	Asn	details	-	37	534	-	-	-
+LRR11	281		Ser	Pro	details	-	56	421	86	80	78
+LRR11	281		Ser	Gln	details	-	86	741	92	100	103
+LRR11	281		Ser	Arg	details	-	9	90	21	83	7
+LRR11	281		Ser	Thr	details	-	-	303	100	100	100
+LRR11	281		Ser	Thr	details	-	50	222	-	-	-
+LRR11	281		Ser	Thr	details	-	75	440	90	74	71
+LRR11	281		Ser	Val	details	-	45	760	71	266	108
+LRR11	281		Ser	Trp	details	-	74	380	98	86	95
+LRR11	281		Ser	Tyr	details	-	83	130	108	70	109
+LRR11	283		Cys	Ser	details	-	19	48	-	-	-
+LRR11	284		Cys	Ser	details	-	16	51	-	-	-
+LRR11	287		Lys	Ala	details	97	80	140	173	-	-
+LRR11	288		Asn	Ala	details	-	82	110	66	-	-
+Cysteine-box-2	289		Gln	Ala	details	-	78	100	61	-	-
+Cysteine-box-2	290		Lys	Ala	details	84	80	140	142	-	-
+Cysteine-box-2	291		Lys	Ala	details	91	76	330	142	-	-
+Cysteine-box-2	293		Arg	Ala	details	-	88	140	106	-	-
+Cysteine-box-2	293		Arg	Ala	details	90	83	-	-	-	-
+Cysteine-box-2	297		Glu	Ala	details	40	96	-	84	-	-
+Cysteine-box-2	297		Glu	Ala	details	40	94	80	95	-	-
+Cysteine-box-2	297		Glu	Asp	details	91	100	-	89	-	-
+Cysteine-box-2	297		Glu	Asp	details	91	93	110	82	-	-
+Cysteine-box-2	297		Glu	Lys	details	46	101	-	59	-	-
+Cysteine-box-2	297		Glu	Lys	details	14	102	80	56	-	-
+Cysteine-box-2	297		Glu	Gln	details	46	92	-	63	-	-
+Cysteine-box-2	297		Glu	Gln	details	45	94	120	89	-	-
+Cysteine-box-2	301		Cys	Ser	details	-	71	50	-	-	-
+303		Glu	Ala	details	60	102	-	87	-	-
+303		Glu	Ala	details	60	90	100	75	-	-
+303		Glu	Asp	details	107	96	-	98	-	-
+303		Glu	Lys	details	94	92	-	98	-	-
+303		Glu	Gln	details	89	97	-	104	-	-
+303		Glu	Gln	details	89	105	100	85	-	-
+310		Arg	Cys	details	25	-	200	0	-	-
+312		Arg	Ala	details	93	95	-	-	-	-
+313		Lys	Ala	details	89	82	-	-	-	-
+369		Glu	Ala	details	80	65	-	-	-	-
+371		Lys	Ala	details	97	95	-	-	-	-
+375		Glu	Ala	details	72	84	-	-	-	-
+376		Glu	Ala	details	83	86	-	-	-	-
+382		Asp	Ala	details	53	93	-	61	-	-
+382		Asp	Ala	details	51	97	90	37	-	-
+382		Asp	Glu	details	92	92	-	101	-	-
+382		Asp	Glu	details	92	96	90	82	-	-
+382		Asp	Lys	details	17	94	-	75	-	-
+382		Asp	Lys	details	17	92	100	65	-	-
+382		Asp	Asn	details	57	94	-	103	-	-
+382		Asp	Asn	details	57	87	110	95	-	-
+385		Tyr	Glu	details	-	80	60	30	-	-
+385		Tyr	Phe	details	-	100	60	30	-	-
+387		Tyr	Glu	details	-	100	80	100	-	-
+387		Tyr	Phe	details	-	100	70	100	-	-
+Cysteine-box-3	390		Cys	Ser	details	-	75	48	-	-	-
+Cysteine-box-3	390		Cys	Trp	details	30	-	88	24	-	-
+Cysteine-box-3	390		Cys	Trp	details	148	-	-	79	-	-
+Cysteine-box-3	394		Glu	Ala	details	71	93	-	-	-	-
+Cysteine-box-3	395		Asp	Ala	details	70	85	-	-	-	-
+Cysteine-box-3	399		Thr	Ala	details	76	80	150	82	-	-
+Cysteine-box-3	400		Pro	Ala	details	12	12	500	50	-	-
+Cysteine-box-3	400		Pro	Asp	details	3	10	60	0	-	-
+Cysteine-box-3	400		Pro	Lys	details	2	17	30	0	-	-
+Cysteine-box-3	400		Pro	Leu	details	3	12	60	24	-	-
+Cysteine-box-3	401		Lys	Ala	details	82	95	150	73	-	-
+Cysteine-box-3	402		Ser	Ala	details	100	101	160	83	-	-
+Cysteine-box-3	403		Asp	Ala	details	35	27	47	36	138	7
+Cysteine-box-3	403		Asp	Glu	details	60	58	410	103	-	-
+Cysteine-box-3	403		Asp	Lys	details	12	12	90	22	114	6
+Cysteine-box-3	403		Asp	Leu	details	19	15	670	69	-	-
+Cysteine-box-3	403		Asp	Asn	details	96	79	140	127	-	-
+Cysteine-box-3	403		Asp	Asn	details	-	-	-	25	-	-
+Cysteine-box-3	403		Asp	Ser	details	82	82	130	112	-	-
+Cysteine-box-3	404		Glu	Ala	details	89	95	60	116	100	121
+Cysteine-box-3	404		Glu	Asp	details	92	85	120	58	-	-
+Cysteine-box-3	404		Glu	Lys	details	50	35	480	93	110	27
+Cysteine-box-3	404		Glu	Leu	details	101	77	380	117	-	-
+Cysteine-box-3	404		Glu	Asn	details	80	56	430	130	-	-
+Cysteine-box-3	404		Glu	Ser	details	82	76	170	161	-	-
+Cysteine-box-3	405		Phe	Ala	details	24	16	100	13	-	-
+Cysteine-box-3	406		Asn	Ala	details	50	35	520	89	100	50
+Cysteine-box-3	406		Asn	Asp	details	63	30	680	86	-	-
+Cysteine-box-3	406		Asn	Lys	details	55	32	140	64	-	-
+Cysteine-box-3	406		Asn	Leu	details	53	34	300	78	-	-
+Cysteine-box-3	406		Asn	Gln	details	92	71	410	121	-	-
+Cysteine-box-3	406		Asn	Ser	details	103	73	310	121	-	-
+Cysteine-box-3	407		Pro	Ala	details	69	65	100	30	-	-
+Cysteine-box-3	407		Pro	Asp	details	117	84	240	31	-	-
+Cysteine-box-3	407		Pro	Lys	details	49	30	120	56	-	-
+Cysteine-box-3	407		Pro	Leu	details	69	56	170	39	-	-
+409		Glu	Ala	details	76	83	80	38	-	-
+409		Glu	Lys	details	90	97	20	24	155	8
+TMH1	410		Asp	Ala	details	108	73	100	71	-	-
+TMH1	410		Asp	Lys	details	63	55	20	26	155	8
+TMH1	410		Asp	Asn	details	100	-	25	28	-	-
+TMH1	417	1.35	Leu	Val	details	-	98	80	80	120	20
+TMH1	421	1.39	Val	Ile	details	-	110	260	90	90	100
+TMH1	424	1.42	Val	Ile	details	-	100	30	100	80	50
+TMH1	425	1.43	Ser	Ile	details	-	76	837	84	-	-
+TMH1	428	1.46	Ala	Val	details	-	25	640	90	-	-
+TMH1	431	1.49	Gly	Ala	details	101	-	181	91	75	164
+TMH1	431	1.49	Gly	Cys	details	82	-	192	100	105	155
+TMH1	431	1.49	Gly	Ser	details	189	-	248	131	136	82
+TMH1	431	1.49	Gly	Ser	details	-	90	430	98	73	110
+TMH1	438	1.56	Ile	Ala	details	-	108	80	56	83	16
+TMH1	439	1.57	Leu	Ala	details	-	95	290	102	87	89
+TMH1	440	1.58	Leu	Ala	details	-	83	60	94	93	56
+TMH1	441	1.59	Thr	Ala	details	-	82	50	85	117	34
+TMH1	442		Ser	Ala	details	-	89	50	61	107	39
+ICL1	443		His	Ala	details	-	94	70	81	100	47
+ICL1	443		His	Glu	details	-	99	50	80	100	54
+ICL1	443		His	Phe	details	-	77	50	77	100	13
+ICL1	443		His	Arg	details	-	103	90	80	105	96
+ICL1	444		Tyr	Ala	details	-	104	60	97	97	70
+ICL1	445		Lys	Ala	details	-	92	70	89	110	79
+ICL1	446		Leu	Ala	details	-	52	50	91	95	49
+TMH2	447		Asn	Ala	details	-	57	70	83	95	39
+TMH2	448	2.38	Val	Ala	details	-	71	60	89	83	67
+TMH2	449	2.39	Pro	Ala	details	-	92	90	112	110	107
+TMH2	450	2.40	Arg	Ala	details	-	81	40	70	113	16
+TMH2	450	2.40	Arg	Glu	details	-	86	30	35	126	11
+TMH2	450	2.40	Arg	His	details	60	-	100	40	100	0
+TMH2	450	2.40	Arg	Lys	details	-	80	50	91	116	31
+TMH2	450	2.40	Arg	Met	details	-	61	50	85	105	13
+TMH2	450	2.40	Arg	Gln	details	-	92	40	66	126	35
+TMH2	451	2.41	Phe	Ala	details	-	49	50	72	103	43
+TMH2	453	2.43	Met	Thr	details	-	-	700	80	-	100
+TMH2	453	2.43	Met	Thr	details	-	66	570	84	103	87
+TMH2	454	2.44	Cys	Ser	details	39	-	79	86	102	67
+TMH2	456	2.46	Leu	Ala	details	-	12	57	42	-	-
+TMH2	456	2.46	Leu	Ile	details	-	35	29	59	-	-
+TMH2	456	2.46	Leu	Trp	details	-	18	12	5	-	-
+TMH2	460	2.50	Asp	Ala	details	-	25	27	19	-	-
+TMH2	460	2.50	Asp	Asn	details	-	115	20	37	-	-
+TMH2	462	2.52	Cys	Ser	details	25	-	65	94	98	58
+TMH2	463	2.53	Met	Val	details	-	-	200	-	100	-
+TMH2	466	2.56	Tyr	Ala	details	-	100	360	50	90	20
+TMH2	467	2.57	Leu	Pro	details	-	20	40	0	-	-
+TMH2	467	2.57	Leu	Val	details	-	90	10	110	80	20
+TMH2	470	2.60	Ile	Val	details	-	99	90	109	119	77
+TMH2	473	2.63	Val	Ile	details	80	100	100	80	100	20
+TMH2	474	2.64	Asp	Glu	details	44	37	50	29	100	8
+TMH2	476	2.66	Tyr	Ala	details	-	94	110	89	113	107
+TMH2	477	2.67	Thr	Ile	details	-	5	10	0	-	-
+TMH2	477	2.67	Thr	Ile	details	27	24	60	28	76	7
+TMH2	477	2.67	Thr	Ile	details	23	26	40	14	96	32
+TMH2	478	2.68	His	Ala	details	-	103	70	99	81	109
+TMH2	479	2.69	Ser	Ala	details	-	79	40	99	-	-
+TMH2	480	2.70	Glu	Ala	details	-	79	50	83	-	-
+TMH2	481	2.71	Tyr	Ala	details	-	22	60	10	106	5
+TMH2	481	2.71	Tyr	Phe	details	-	79	99	70	123	70
+TMH2	481	2.71	Tyr	Asn	details	-	18	80	12	114	5
+ECL1	482		Tyr	Ala	details	-	86	60	74	131	19
+ECL1	483		Asn	Ala	details	-	90	40	109	-	-
+ECL1	484		His	Ala	details	-	85	51	97	109	39
+ECL1	485		Ala	Val	details	-	15	150	-	0	0
+ECL1	486		Ile	Ala	details	-	67	380	91	-	-
+ECL1	486		Ile	Phe	details	-	20	413	64	-	-
+ECL1	486		Ile	Phe	details	-	17	550	-	327	-
+ECL1	486		Ile	Phe	details	42	35	820	83	97	55
+ECL1	486		Ile	Phe	details	-	15	663	-	-	-
+ECL1	486		Ile	Met	details	-	53	325	-	118	-
+ECL1	486		Ile	Met	details	81	77	430	112	170	175
+ECL1	486		Ile	Met	details	-	71	370	66	-	-
+ECL1	486		Ile	Asn	details	-	61	710	85	-	-
+ECL1	486		Ile	Asn	details	-	51	404	74	100	8
+ECL1	487		Asp	Ala	details	-	94	60	96	-	-
+ECL1	488		Trp	Ala	details	-	11	50	4	-	-
+ECL1	488		Trp	Phe	details	-	14	60	11	-	-
+ECL1	488		Trp	Leu	details	-	12	50	5	-	-
+ECL1	488		Trp	Arg	details	0	-	-	0	-	-
+ECL1	489		Gln	Ala	details	-	52	60	34	-	-
+ECL1	489		Gln	His	details	50	100	-	0	-	-
+ECL1	490		Thr	Ala	details	-	85	200	108	-	-
+TMH3	498	3.29	Gly	Ser	details	0	0	-	0	-	-
+TMH3	501	3.32	Thr	Ile	details	-	150	125	-	-	-
+TMH3	502	3.33	Val	Ala	details	-	40	-	110	80	10
+TMH3	505	3.36	Ser	Asn	details	78	-	490	103	-	-
+TMH3	505	3.36	Ser	Asn	details	-	80	650	109	88	100
+TMH3	505	3.36	Ser	Arg	details	-	60	275	92	-	-
+TMH3	505	3.36	Ser	Arg	details	93	-	218	100	109	50
+TMH3	505	3.36	Ser	Arg	details	-	-	250	-	-	-
+TMH3	506	3.37	Glu	Ala	details	-	-	70	-	-	-
+TMH3	507	3.38	Leu	Ser	details	-	-	50	-	-	-
+TMH3	508	3.39	Ser	Ala	details	-	-	80	-	-	-
+TMH3	508	3.39	Ser	Gly	details	40	23	70	85	79	31
+TMH3	509	3.40	Val	Ala	details	-	-	300	-	-	-
+TMH3	509	3.40	Val	Ala	details	-	-	300	-	-	-
+TMH3	509	3.40	Val	Ala	details	-	-	300	100	-	-
+TMH3	510	3.41	Tyr	Ser	details	-	-	70	-	-	-
+TMH3	511	3.42	Thr	Arg	details	-	-	100	-	-	-
+TMH3	512	3.43	Leu	Gln	details	-	86	463	69	-	-
+TMH3	512	3.43	Leu	Gln	details	-	106	370	79	-	-
+TMH3	512	3.43	Leu	Gln	details	-	106	370	86	92	52
+TMH3	512	3.43	Leu	Arg	details	52	56	325	49	100	13
+TMH3	513	3.44	Thr	Arg	details	-	-	50	-	-	-
+TMH3	515	3.46	Ile	Met	details	-	100	30	-	-	-
+TMH3	518	3.49	Glu	Ala	details	-	10	68	33	-	-
+TMH3	518	3.49	Glu	Gln	details	-	11	103	53	-	-
+TMH3	519	3.50	Arg	Cys	details	25	-	100	10	100	0
+TMH3	519	3.50	Arg	Gly	details	25	-	100	0	100	0
+TMH3	521	3.52	Tyr	His	details	-	-	90	-	-	-
+TMH3	523	3.54	Ile	Ala	details	104	70	30	28	78	8
+TMH3	524	3.55	Thr	Ala	details	45	75	70	95	113	91
+ICL2	525		Phe	Ala	details	100	108	30	71	100	42
+ICL2	525		Phe	Lys	details	121	110	30	88	156	9
+ICL2	525		Phe	Leu	details	100	-	13	44	-	-
+ICL2	527		Met	Ala	details	109	136	20	45	104	9
+ICL2	527		Met	Lys	details	140	110	10	21	119	9
+ICL2	527		Met	Thr	details	-	-	-	30	-	-
+ICL2	528		Arg	Ala	details	58	50	20	66	96	28
+ICL2	528		Arg	His	details	42	-	61	59	117	112
+ICL2	529		Leu	Ala	details	111	118	60	92	104	39
+ICL2	530		Asp	Ala	details	71	71	30	62	100	19
+ICL2	531		Arg	Ala	details	83	82	50	80	91	51
+ICL2	531		Arg	Gln	details	-	-	30	90	-	-
+ICL2	532		Lys	Ala	details	67	80	80	69	91	72
+ICL2	533		Ile	Ala	details	103	74	60	82	100	79
+ICL2	533		Ile	Leu	details	-	-	30	-	-	-
+TMH4	534		Arg	Ala	details	67	89	60	72	100	79
+TMH4	549	4.53	Cys	Ser	details	118	-	80	104	100	100
+TMH4	553	4.57	Ala	Thr	details	25	20	50	40	0	0
+ECL2	561		Ser	Ala	details	-	59	50	72	100	14
+ECL2	562		Ser	Ala	details	-	50	50	82	106	15
+ECL2	563		Tyr	Ala	details	-	8	60	15	94	4
+ECL2	564		Ala	Phe	details	-	81	60	58	167	45
+ECL2	565		Lys	Ala	details	-	75	40	14	94	5
+ECL2	566		Val	Ala	details	-	95	140	88	106	78
+ECL2	566		Val	Phe	details	-	55	120	37	150	7
+ECL2	567		Ser	Ala	details	-	110	40	77	150	65
+ECL2	568		Ile	Ala	details	-	19	220	55	94	4
+ECL2	568		Ile	Phe	details	-	101	630	103	161	128
+ECL2	568		Ile	Leu	details	-	102	40	68	-	-
+ECL2	568		Ile	Thr	details	-	36	520	-	223	-
+ECL2	568		Ile	Thr	details	67	65	520	92	75	83
+ECL2	568		Ile	Val	details	-	100	250	-	100	-
+ECL2	568		Ile	Val	details	-	90	290	78	93	107
+ECL2	568		Ile	Val	details	-	86	220	104	-	-
+ECL2	570		Leu	Ala	details	-	47	150	62	95	17
+ECL2	570		Leu	Phe	details	-	-	194	97	-	-
+ECL2	570		Leu	Phe	details	-	70	170	71	161	43
+ECL2	572		Met	Ala	details	-	81	20	57	100	14
+ECL2	572		Met	Ala	details	-	86	80	48	-	-
+ECL2	572		Met	Phe	details	-	93	120	58	133	70
+ECL2	573		Asp	Ala	details	-	65	130	74	94	68
+ECL2	573		Asp	Lys	details	40	32	50	79	140	12
+ECL2	574		Thr	Ala	details	-	83	170	87	106	102
+ECL2	575		Glu	Ala	details	-	83	131	68	133	88
+TMH5	580	5.37	Leu	Val	details	-	113	95	102	-	-
+TMH5	582	5.39	Tyr	Ala	details	-	70	20	110	90	50
+TMH5	582	5.39	Tyr	Phe	details	-	90	40	110	120	110
+TMH5	583	5.40	Ile	Val	details	-	100	132	101	-	-
+TMH5	584	5.41	Val	Ala	details	-	93	135	125	-	-
+TMH5	585	5.42	Phe	Thr	details	-	-	118	92	-	-
+TMH5	591	5.48	Ile	Val	details	-	93	98	94	-	-
+TMH5	593	5.50	Ala	Gly	details	-	76	213	99	-	-
+TMH5	593	5.50	Ala	Asn	details	-	43	440	126	-	-
+TMH5	593	5.50	Ala	Pro	details	-	7	19	24	-	-
+TMH5	593	5.50	Ala	Val	details	-	41	33	103	-	-
+TMH5	594	5.51	Phe	Ile	details	-	85	13	92	89	41
+TMH5	597	5.54	Val	Phe	details	-	40	200	100	-	-
+TMH5	597	5.54	Val	Leu	details	-	10	344	60	-	-
+TMH5	597	5.54	Val	Leu	details	-	-	240	80	0	50
+TMH5	598	5.55	Cys	Ser	details	62	-	62	102	97	73
+TMH5	600	5.57	Cys	Arg	details	-	5	0	0	-	-
+TMH5	600	5.57	Cys	Ser	details	24	-	65	85	98	55
+TMH5	601	5.58	Tyr	Ala	details	96	65	33	91	-	0
+TMH5	601	5.58	Tyr	Asp	details	16	65	31	19	-	0
+TMH5	601	5.58	Tyr	Phe	details	104	98	22	95	-	0
+TMH5	601	5.58	Tyr	Phe	details	104	-	20	47	-	48
+TMH5	601	5.58	Tyr	Phe	details	-	112	60	26	-	-
+TMH5	601	5.58	Tyr	His	details	114	80	35	98	0	0
+TMH5	601	5.58	Tyr	Lys	details	22	-	27	30	-	0
+TMH5	601	5.58	Tyr	Asn	details	-	38	344	57	-	-
+TMH5	601	5.58	Tyr	Asn	details	62	-	414	120	46	105
+TMH5	601	5.58	Tyr	Pro	details	-	0	-	-	-	-
+TMH5	601	5.58	Tyr	Ser	details	107	62	15	65	-	0
+TMH5	601	5.58	Tyr	Trp	details	144	81	42	50	-	0
+TMH5	604	5.61	Ile	Ala	details	38	24	80	93	100	16
+TMH5	605	5.62	Tyr	Ala	details	56	77	21	252	-	0
+TMH5	605	5.62	Tyr	Ala	details	90	85	30	88	91	28
+TMH5	605	5.62	Tyr	His	details	67	30	44	149	-	0
+TMH5	606	5.63	Ile	Ala	details	87	85	130	135	89	86
+TMH5	607	5.64	Thr	Ala	details	86	87	150	145	91	89
+TMH5	607	5.64	Thr	Glu	details	71	74	130	85	144	102
+TMH5	608	5.65	Val	Ala	details	71	91	30	103	100	51
+ICL3	613		Tyr	Ala	details	79	90	60	95	87	75
+ICL3	613		Tyr	Glu	details	89	88	80	102	119	79
+ICL3	614		Asn	Ala	details	91	94	110	88	80	92
+ICL3	615		Pro	Ala	details	103	101	90	103	89	86
+ICL3	616		Gly	Ala	details	94	89	190	155	89	105
+TMH6	617		Asp	Ala	details	86	86	210	146	91	103
+TMH6	617		Asp	Tyr	details	-	59	240	86	89	78
+TMH6	618		Lys	Ala	details	63	56	110	98	33	19
+TMH6	619	6.30	Asp	Ala	details	95	84	280	149	64	115
+TMH6	619	6.30	Asp	Gly	details	-	68	258	114	-	-
+TMH6	619	6.30	Asp	Gly	details	-	-	242	-	87	-
+TMH6	619	6.30	Asp	Gly	details	-	63	255	92	93	85
+TMH6	620	6.31	Thr	Ala	details	83	95	60	105	93	90
+TMH6	620	6.31	Thr	Ile	details	-	-	500	75	-	-
+TMH6	621	6.32	Lys	Ala	details	79	63	60	87	29	19
+TMH6	622	6.33	Ile	Ala	details	83	95	30	93	93	31
+TMH6	622	6.33	Ile	Asp	details	87	102	20	20	91	13
+TMH6	623	6.34	Ala	Phe	details	100	50	300	100	-	-
+TMH6	623	6.34	Ala	Ile	details	-	-	282	-	97	-
+TMH6	623	6.34	Ala	Val	details	80	-	500	80	100	100
+TMH6	623	6.34	Ala	Val	details	-	101	380	112	-	-
+TMH6	623	6.34	Ala	Tyr	details	-	45	253	45	-	42
+TMH6	625	6.36	Arg	Ala	details	-	91	34	76	-	-
+TMH6	626	6.37	Met	Ala	details	-	50	150	-	-	-
+TMH6	626	6.37	Met	Ile	details	-	30	350	-	-	-
+TMH6	626	6.37	Met	Leu	details	-	60	50	-	-	-
+TMH6	626	6.37	Met	Val	details	-	60	110	-	-	-
+TMH6	627	6.38	Ala	Val	details	-	52	320	54	-	-
+TMH6	629	6.40	Leu	Phe	details	-	-	210	-	110	-
+TMH6	629	6.40	Leu	Phe	details	43	-	450	-	-	-
+TMH6	629	6.40	Leu	Phe	details	-	65	650	86	104	21
+TMH6	629	6.40	Leu	Phe	details	80	-	400	90	-	-
+TMH6	630	6.41	Ile	Leu	details	62	-	250	-	-	-
+TMH6	630	6.41	Ile	Leu	details	42	-	476	106	-	-
+TMH6	630	6.41	Ile	Leu	details	-	36	640	80	92	24
+TMH6	630	6.41	Ile	Met	details	46	29	500	87	61	32
+TMH6	631	6.42	Phe	Cys	details	45	-	302	100	100	85
+TMH6	631	6.42	Phe	Leu	details	100	-	500	100	0	100
+TMH6	631	6.42	Phe	Ser	details	-	40	700	100	100	35
+TMH6	631	6.42	Phe	Val	details	86	65	500	102	70	102
+TMH6	632	6.43	Thr	Ala	details	-	38	344	92	-	-
+TMH6	632	6.43	Thr	Ala	details	-	40	420	145	-	-
+TMH6	632	6.43	Thr	Ile	details	36	-	370	82	128	69
+TMH6	632	6.43	Thr	Ile	details	90	-	500	100	100	100
+TMH6	633	6.44	Asp	Ala	details	-	22	344	91	-	-
+TMH6	633	6.44	Asp	Ala	details	-	26	451	125	-	-
+TMH6	633	6.44	Asp	Cys	details	77	33	470	70	207	43
+TMH6	633	6.44	Asp	Glu	details	60	-	389	100	125	56
+TMH6	633	6.44	Asp	Glu	details	62	65	333	103	93	62
+TMH6	633	6.44	Asp	Phe	details	76	32	710	94	129	50
+TMH6	633	6.44	Asp	Phe	details	45	40	710	77	79	49
+TMH6	633	6.44	Asp	His	details	115	84	620	67	221	100
+TMH6	633	6.44	Asp	His	details	-	123	725	-	-	-
+TMH6	633	6.44	Asp	Lys	details	103	97	30	36	71	11
+TMH6	633	6.44	Asp	Lys	details	60	82	150	9	72	9
+TMH6	633	6.44	Asp	Asn	details	93	106	130	106	118	46
+TMH6	633	6.44	Asp	Asn	details	-	96	159	167	-	-
+TMH6	633	6.44	Asp	Asn	details	-	100	125	-	-	-
+TMH6	633	6.44	Asp	Arg	details	150	124	60	11	100	13
+TMH6	633	6.44	Asp	Trp	details	68	16	630	86	207	45
+TMH6	633	6.44	Asp	Tyr	details	60	-	405	88	127	77
+TMH6	634	6.45	Phe	Ile	details	-	79	13	89	89	15
+TMH6	635	6.46	Ile	Val	details	125	100	250	100	-	-
+TMH6	636	6.47	Cys	Ser	details	117	-	283	106	101	55
+TMH6	636	6.47	Cys	Trp	details	71	100	490	87	100	20
+TMH6	637	6.48	Met	Cys	details	-	100	330	90	100	130
+TMH6	637	6.48	Met	Trp	details	-	70	930	80	90	100
+TMH6	638	6.49	Ala	Val	details	-	104	38	95	78	22
+TMH6	639	6.50	Pro	Ser	details	54	-	500	-	-	-
+TMH6	639	6.50	Pro	Ser	details	69	72	476	114	238	207
+TMH6	640	6.51	Ile	Phe	details	-	75	90	55	103	18
+TMH6	640	6.51	Ile	Lys	details	-	44	590	53	-	-
+TMH6	640	6.51	Ile	Leu	details	-	93	40	50	104	30
+TMH6	640	6.51	Ile	Met	details	-	60	120	60	145	44
+TMH6	640	6.51	Ile	Val	details	-	94	290	68	-	-
+TMH6	642	6.53	Phe	Ile	details	-	57	25	62	90	8
+TMH6	643	6.54	Tyr	Ala	details	-	100	20	90	100	50
+TMH6	643	6.54	Tyr	Phe	details	-	-	91	85	-	-
+TMH6	643	6.54	Tyr	Phe	details	-	120	260	90	80	130
+TMH6	644	6.55	Ala	Val	details	-	79	136	87	73	19
+TMH6	645	6.56	Leu	Val	details	-	80	260	100	80	70
+TMH6	648	6.59	Ile	Val	details	-	120	56	93	-	-
+ECL3	650		Asn	Ala	details	100	89	90	94	68	60
+ECL3	650		Asn	Tyr	details	115	-	261	100	100	130
+ECL3	651		Lys	Glu	details	97	95	70	128	123	75
+ECL3	652		Pro	Ala	details	70	66	90	66	77	40
+ECL3	653		Leu	Ala	details	80	85	80	62	95	18
+ECL3	653		Leu	Val	details	70	78	95	91	110	19
+ECL3	654		Ile	Ala	details	70	80	80	50	110	5
+ECL3	655		Thr	Ala	details	90	92	70	50	109	12
+ECL3	656	7.31	Val	Ala	details	85	86	150	38	123	6
+ECL3	656	7.31	Val	Phe	details	-	80	460	110	-	-
+ECL3	656	7.31	Val	Phe	details	-	95	660	98	88	104
+ECL3	656	7.31	Val	Phe	details	89	98	710	77	79	49
+ECL3	656	7.31	Val	Phe	details	-	94	410	96	-	-
+ECL3	656	7.31	Val	Phe	details	-	94	410	74	-	-
+TMH7	657	7.32	Ser	Ala	details	92	103	80	78	95	45
+TMH7	658	7.33	Asn	Ala	details	70	93	80	106	105	48
+TMH7	659	7.34	Ser	Ala	details	108	106	140	118	109	95
+TMH7	660	7.35	Lys	Ala	details	70	80	80	58	114	6
+TMH7	660	7.35	Lys	Asp	details	73	42	40	15	160	7
+TMH7	660	7.35	Lys	Glu	details	80	52	70	24	150	10
+TMH7	664	7.39	Val	Ala	details	-	75	110	91	104	37
+TMH7	665	7.40	Leu	Val	details	-	100	40	100	90	70
+TMH7	670	7.45	Asn	Ala	details	129	98	80	28	93	14
+TMH7	670	7.45	Asn	Ser	details	100	-	168	100	109	-
+TMH7	670	7.45	Asn	Ser	details	118	98	240	45	79	11
+TMH7	672	7.47	Cys	Ser	details	9	-	33	38	100	49
+TMH7	672	7.47	Cys	Tyr	details	-	-	220	-	-	-
+TMH7	674	7.49	Asn	Ala	details	-	50	86	14	-	-
+TMH7	674	7.49	Asn	Ala	details	101	62	50	18	96	15
+TMH7	674	7.49	Asn	Ala	details	-	-	150	-	-	-
+TMH7	674	7.49	Asn	Asp	details	77	32	410	75	121	36
+TMH7	674	7.49	Asn	Asp	details	-	24	349	169	-	-
+TMH7	674	7.49	Asn	Asp	details	-	16	-	-	-	-
+TMH7	674	7.49	Asn	Ser	details	77	50	370	64	118	18
+TMH7	677	7.52	Leu	Val	details	-	-	343	-	-	-
